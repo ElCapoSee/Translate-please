@@ -1,0 +1,2 @@
+# Translate-please
+Translate, please! These is desktop application. English Practice Apps. You can learn new words or repeat old ones. By filling out the word database you can practice your knowledge of words. You can add a new word to the base or delete a word. Before viewing the data in the database, you need to update, that is, click the Update button. Words from the database are displayed in the Translate tab.
